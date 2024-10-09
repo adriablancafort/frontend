@@ -1,6 +1,6 @@
 {
     "name": "Sonar Festival App",
-    "short_name": "Sonar",
+    "short_name": " ",
     "description": "Discover Sónar Festival. Generate a custom schedule tailored to your preferences.",
     "start_url": "/",
     "display": "standalone",
