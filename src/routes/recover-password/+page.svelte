@@ -1,7 +1,7 @@
 <div class="space-y-4">
     <h1 class="pb-8 text-xl font-semibold text-center">Recover password</h1>
 
-    <p class="text-sm text-center">Please introduce the email associated with your account to recieve an email to recover your password:</p>
+    <p class="text-sm">Please introduce the email associated with your account to recieve an email to recover your password:</p>
 
     <label class="flex items-center gap-2 input input-bordered">
         <svg
