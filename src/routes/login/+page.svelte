@@ -29,10 +29,16 @@
         <input type="password" placeholder="Password" />
     </label>
 
-    <p class="pb-12 text-sm">
-        I don't have an account.
-       <a href="/signup" class="underline">Sign up</a> 
-    </p>
+    <div class="pb-8 space-y-1 text-sm">
+        <p>
+            I forgot my password.
+            <a href="/recover-password" class="underline">Recover password</a>       
+        </p>
+        <p>
+            I don't have an account.
+            <a href="/signup" class="underline">Sign up</a>
+        </p>
+    </div>
     
     <button class="w-full btn btn-primary">Login</button>
 </div>

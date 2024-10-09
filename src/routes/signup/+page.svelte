@@ -41,7 +41,7 @@
         <input type="password" placeholder="Password" />
     </label>
 
-    <p class="pb-12 text-sm">
+    <p class="pb-8 text-sm">
         I already have an account.
        <a href="/login" class="underline">Login</a> 
     </p>
